@@ -60,9 +60,12 @@
 
 ## 🌐 Connect With Me  
 
-📧 karnapuumamaheswari022005@gmail.com  
-💼 https://www.linkedin.com/in/uma-maheswari-b596a12a6/
-🐙 https://github.com/karnapuumamaheswari  
+
+<p align="center">
+📧 karnapuumamaheswari022005@gmail.com<br>
+💼 <a href="https://www.linkedin.com/in/uma-maheswari-b596a12a6/">LinkedIn</a><br>
+🐙 <a href="https://github.com/karnapuumamaheswari">GitHub</a>
+</p>
 
 ---
 

@@ -45,7 +45,14 @@
 
 ## 📚 Projects  
 
-🏠 House Price Prediction – ML + Flask Web App  
+### 🏠 House Price Prediction  
+
+🔗 GitHub: https://github.com/karnapuumamaheswari/house_price_prediction  
+
+A Machine Learning web application that predicts house prices using Linear Regression.  
+Built with Flask to provide real-time predictions through a simple user interface.  
+
+**Tech:** Python, Flask, HTML, CSS, Machine Learning   
 
 ---
 

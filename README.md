@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Uma Maheswari
 
-<!--
-**karnapuumamaheswari/karnapuumamaheswari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Undergraduate | AI & ML Student  
+💡 Interested in Machine Learning, Artificial Intelligence & Full-Stack Java  
+💻 Comfortable with C, Python & Basic Data Structures  
+🌱 Currently learning Web Development + ML Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Programming: C, Python, Java (Basics)
+- Web: HTML (learning CSS)
+- ML: Supervised Learning, NLP basics
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 📚 Projects
+
+🔹 AI Complaint Management System (Railways)  
+🔹 Wireless Charging System  
+🔹 Birthday Website Project  
+🔹 ML Mini Projects  
+
+---
+
+## 🏆 Activities
+
+- Participant – Smart India Hackathon  
+- DTI Lab Member  
+
+---
+
+## 📫 Contact Me
+
+📧 Email: yourmail@gmail.com  
+🔗 LinkedIn: your-link  

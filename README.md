@@ -61,12 +61,12 @@ Developed ML-based prediction models using LSTM & SVM for hydropower system opti
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karnapuumamaheswari&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karnapuumamaheswari&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karnapuumamaheswari&layout=compact&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karnapuumamaheswari&layout=compact&theme=radical" />
+</p>>
 
 ---
 

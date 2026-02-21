@@ -61,7 +61,7 @@
 ## 🌐 Connect With Me  
 
 📧 karnapuumamaheswari022005@gmail.com  
-💼 https://linkedin.com/in/uma-maheswari  
+💼 https://www.linkedin.com/in/uma-maheswari-b596a12a6/
 🐙 https://github.com/karnapuumamaheswari  
 
 ---

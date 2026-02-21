@@ -71,9 +71,9 @@ Built with Flask to provide real-time predictions through a simple user interfac
 <p align="center">
 📧 karnapuumamaheswari022005@gmail.com<br>
 💼 <a href="https://www.linkedin.com/in/uma-maheswari-b596a12a6/">LinkedIn</a><br>
-🐙 <a href="https://github.com/karnapuumamaheswari">GitHub</a>
+🐙 <a href="https://github.com/karnapuumamaheswari">GitHub</a><br>
+🌐 <a href="https://karnapuumamaheswari.github.io/portfolio/">Portfolio</a>
 </p>
-
 ---
 
 ✨ *I love combining Full Stack Development with Machine Learning to build intelligent systems.*  

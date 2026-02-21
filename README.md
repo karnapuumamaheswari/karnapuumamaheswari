@@ -1,83 +1,71 @@
 <h1 align="center">Hi 👋, I'm Uma Maheswari</h1>
 <h3 align="center">AI & ML Undergraduate | Full Stack Web Developer | Competitive Programmer</h3>
 
+<p align="center">
+🚀 Code • Learn • Build • Repeat
+</p>
+
 ---
 
 ## 👩‍💻 About Me  
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning  
-💻 Full Stack Developer building ML-powered web applications  
+💻 Full Stack Developer building ML-powered web apps  
 🧠 Strong foundation in Data Structures & Algorithms  
-🚀 Passionate about solving real-world problems through code  
-🌱 Currently learning Advanced Backend & System Design  
+🔥 Solved 350+ LeetCode | 100+ GFG | ⭐⭐ CodeChef  
+🌱 Learning Advanced Backend + System Design  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Tech Stack  
 
-### 💻 Programming  
-Python | C | C++ | Java (Basic) | SQL  
-
-### 🌐 Web Development  
-HTML | CSS | JavaScript | Flask  
-
-### 🤖 Machine Learning  
-Regression | Classification | LSTM | SVM  
-
-### 🧰 Tools  
-Git | GitHub | VS Code  
+**Languages:** Python | C | C++ | Java | SQL  
+**Web:** HTML | CSS | JavaScript | Flask  
+**ML:** Regression | Classification | LSTM | SVM  
+**Tools:** Git | GitHub | VS Code  
 
 ---
 
-## 🧠 Competitive Programming  
+## 📊 GitHub Activity (Stable Alternative)
 
-🔥 350+ Problems solved on LeetCode  
-⭐ 100+ Problems on GeeksforGeeks  
-⭐⭐ 2-Star Coder on CodeChef  
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karnapuumamaheswari&theme=tokyonight" />
+</p>
 
-Focused on improving algorithms, optimization techniques, and coding efficiency.
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karnapuumamaheswari&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karnapuumamaheswari&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karnapuumamaheswari&theme=tokyonight" />
+</p>
 
 ---
 
-## 📚 Featured Projects  
+## 📚 Projects  
 
-### 🏠 House Price Prediction  
-Built a Linear Regression model (~85% accuracy) and deployed it as a full-stack web app using Flask.
-
-### 💧 Hydraulic Transient Analysis (Smart India Hackathon 2024)  
-Developed ML-based prediction models using LSTM & SVM for hydropower system optimization.
+🏠 House Price Prediction – ML + Flask Web App  
 
 ---
 
 ## 🏆 Achievements  
 
-🏅 Smart India Hackathon 2024 Participant  
-🏅 ML Foundation – Infosys Springboard  
-🏅 AI/ML Internship – AICTE AWS Program  
-🏅 Google Developer Gen AI Internship  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karnapuumamaheswari&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karnapuumamaheswari&layout=compact&theme=radical" />
-</p>>
+✔ Smart India Hackathon 2024  
+✔ Infosys ML Certificate  
+✔ AICTE AWS Internship  
+✔ Google GenAI Internship  
 
 ---
 
 ## 🌐 Connect With Me  
 
-💼 LinkedIn: https://linkedin.com/in/uma-maheswari  
-📧 Email: karnapuumamaheswari022005@gmail.com  
-🐙 GitHub: https://github.com/umamaheswari  
+📧 karnapuumamaheswari022005@gmail.com  
+💼 https://linkedin.com/in/uma-maheswari  
+🐙 https://github.com/karnapuumamaheswari  
 
 ---
 
-✨ *"Code. Learn. Build. Repeat."* 🚀  
+✨ *I love combining Full Stack Development with Machine Learning to build intelligent systems.*  
 
 ⭐ Thanks for visiting my profile!

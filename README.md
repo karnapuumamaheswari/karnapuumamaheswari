@@ -1,84 +1,69 @@
-Hi 👋, I'm Karnapu Uma Maheswari  
-AI & ML Undergraduate | Full Stack Web Developer | Aspiring ML Engineer | Problem Solver  
+<h1 align="center">Hi 👋, I'm Uma Maheswari</h1>
+<h3 align="center">AI & ML Undergraduate | Full Stack Web Developer | Competitive Programmer</h3>
 
 ---
 
 ## 👩‍💻 About Me  
 
-🎓 B.Tech student specializing in Artificial Intelligence & Machine Learning  
-💻 Full Stack Web Developer with interest in building ML-powered web apps  
+🎓 B.Tech in Artificial Intelligence & Machine Learning  
+💻 Full Stack Developer building ML-powered web applications  
 🧠 Strong foundation in Data Structures & Algorithms  
-🚀 Love creating scalable, user-friendly applications and real-world ML solutions  
-🌱 Currently learning advanced backend development + system design  
+🚀 Passionate about solving real-world problems through code  
+🌱 Currently learning Advanced Backend & System Design  
 
 ---
 
 ## 🛠️ Technical Skills  
 
-### 💻 Programming Languages  
-- Python  
-- C  
-- C++  
-- Java (Basic)  
-- SQL  
+### 💻 Programming  
+Python | C | C++ | Java (Basic) | SQL  
 
-### 🌐 Web Technologies  
-- HTML  
-- CSS  
-- JavaScript  
-
-### ⚙️ Full Stack / Backend  
-- Flask  
-- Git & GitHub  
+### 🌐 Web Development  
+HTML | CSS | JavaScript | Flask  
 
 ### 🤖 Machine Learning  
-- Regression & Classification  
-- LSTM  
-- SVM  
+Regression | Classification | LSTM | SVM  
 
 ### 🧰 Tools  
-- VS Code  
-- GitHub  
+Git | GitHub | VS Code  
 
 ---
 
 ## 🧠 Competitive Programming  
 
-🔥 Solved ~350 problems on LeetCode  
-⭐ Solved 100+ problems on GeeksforGeeks  
+🔥 350+ Problems solved on LeetCode  
+⭐ 100+ Problems on GeeksforGeeks  
 ⭐⭐ 2-Star Coder on CodeChef  
 
-Focused on improving algorithms, problem-solving skills, and coding efficiency.
+Focused on improving algorithms, optimization techniques, and coding efficiency.
 
 ---
 
-## 📚 Projects  
+## 📚 Featured Projects  
 
 ### 🏠 House Price Prediction  
-**Tech:** Python, Flask, Machine Learning  
-- Built Linear Regression model with ~85% accuracy  
-- Deployed as a full-stack web application for live predictions  
+Built a Linear Regression model (~85% accuracy) and deployed it as a full-stack web app using Flask.
 
-### 💧 Hydraulic Transient Analysis (SIH 2024)  
-- Worked on ML-based modeling for hydropower systems  
-- Used LSTM & SVM concepts for prediction and optimization  
+### 💧 Hydraulic Transient Analysis (Smart India Hackathon 2024)  
+Developed ML-based prediction models using LSTM & SVM for hydropower system optimization.
 
 ---
 
-## 🏆 Achievements & Certifications  
+## 🏆 Achievements  
 
-- Participant – Smart India Hackathon 2024  
-- ML Foundation Certificate – Infosys Springboard  
-- AI/ML Internship – AICTE AWS Program  
-- Google Developer Gen AI Internship  
+🏅 Smart India Hackathon 2024 Participant  
+🏅 ML Foundation – Infosys Springboard  
+🏅 AI/ML Internship – AICTE AWS Program  
+🏅 Google Developer Gen AI Internship  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=karnapuumamaheswari&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karnapuumamaheswari&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umamaheswari&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umamaheswari&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -86,11 +71,10 @@ Focused on improving algorithms, problem-solving skills, and coding efficiency.
 
 💼 LinkedIn: https://linkedin.com/in/uma-maheswari  
 📧 Email: karnapuumamaheswari022005@gmail.com  
-🐙 GitHub: https://github.com/karnapuumamaheswari  
+🐙 GitHub: https://github.com/umamaheswari  
 
 ---
 
-✨ Fun Fact  
-I enjoy combining Full Stack Development with Machine Learning to build intelligent applications 🚀  
+✨ *"Code. Learn. Build. Repeat."* 🚀  
 
 ⭐ Thanks for visiting my profile!

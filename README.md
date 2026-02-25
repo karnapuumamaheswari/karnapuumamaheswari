@@ -72,7 +72,7 @@ Built with Flask to provide real-time predictions through a simple user interfac
 📧 **Email:** <a href="mailto:karnapuumamaheswari022005@gmail.com">karnapuumamaheswari022005@gmail.com</a>  
 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">View Profile</a>  
 🐙 **GitHub:** <a href="https://github.com/karnapuumamaheswari">karnapuumamaheswari</a>  
-🌐 **Portfolio:** <a href="YOUR-PORTFOLIO-LINK">Visit Website</a>  
+🌐 **Portfolio:** <a href="https://github.com/karnapuumamaheswari/portfolio">Visit Website</a>  
 
 </p>
 

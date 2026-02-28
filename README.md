@@ -45,14 +45,37 @@
 
 ## 📚 Projects  
 
+---
+
+### 🛒 Grocery List Manager (Major Project)
+
+🔗 **Live Deployment:** https://lustrous-sunshine-686d34.netlify.app/  
+🔗 **Frontend Repository:** https://github.com/karnapuumamaheswari/grocery-list-manager-frontend  
+🔗 **Backend Repository:** https://github.com/karnapuumamaheswari/grocery-list-manager-backend  
+🎥 **Demo Video:** https://drive.google.com/file/d/1NxgqKLhGJh9mFSGodIOB9YRHO2N5mIb0/view?usp=sharing  
+
+A full-stack web application designed to help users efficiently manage their grocery items.  
+The system allows users to add, edit, delete, and organize grocery items through a clean and responsive interface.
+
+The frontend handles user interaction and dynamic updates, while the backend manages data storage and API operations.
+
+### 🔹 Key Features
+✔ Add, update, and delete grocery items  
+✔ Organized item listing  
+✔ Real-time interaction between frontend and backend  
+✔ RESTful API integration  
+✔ Responsive user interface   
+
+---
+
 ### 🏠 House Price Prediction  
 
-🔗 GitHub: https://github.com/karnapuumamaheswari/house_price_prediction  
+🔗 **GitHub:** https://github.com/karnapuumamaheswari/house_price_prediction  
 
 A Machine Learning web application that predicts house prices using Linear Regression.  
 Built with Flask to provide real-time predictions through a simple user interface.  
 
-**Tech:** Python, Flask, HTML, CSS, Machine Learning   
+**Tech:** Python, Flask, HTML, CSS, Machine Learning       
 
 ---
 

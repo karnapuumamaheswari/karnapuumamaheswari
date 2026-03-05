@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack  
 
 **Languages:** Python | C | C++ | Java | SQL  
-**Web:** HTML | CSS | JavaScript | React | Node.js || Express.js || Tailwind CSS ||Supabase || FireBase
+**Web:** HTML | CSS | JavaScript | React | Node.js | Express.js | Tailwind CSS |Supabase | FireBase
 **ML:** Regression | Classification | LSTM | CNN 
 **Tools:** Git | GitHub | VS Code  
 

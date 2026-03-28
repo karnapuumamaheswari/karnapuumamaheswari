@@ -67,11 +67,11 @@ The frontend handles user interaction and dynamic updates, while the backend man
 ✔ Responsive user interface   
 
 ---
-🏥 Intelligent Hospital Bed Allocation (Reinforcement Learning Project)
+### 🏥 Intelligent Hospital Bed Allocation (Reinforcement Learning Project)
 
-🔗 Live Demo: https://intelligent-bed-allocation.streamlit.app/
+**🔗 Live Demo:** https://intelligent-bed-allocation.streamlit.app/
 
-🔗 GitHub: https://github.com/karnapuumamaheswari/intelligent-bed-allocation
+**🔗 GitHub:** https://github.com/karnapuumamaheswari/intelligent-bed-allocation
 
 An intelligent healthcare system that uses Deep Reinforcement Learning (DQN) to optimize hospital bed allocation and patient handling under limited resources.
 
